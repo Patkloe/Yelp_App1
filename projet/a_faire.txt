@@ -1,0 +1,9 @@
+component folder in SRC, inside Component put Business and other one
+
+reset.css in index.html.     add google font
+
+businessList      import ./business
+
+ "homepage": "http://Patkloe.github.io/yelp_app",
+
+
