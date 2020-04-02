@@ -4,6 +4,14 @@ reset.css in index.html.     add google font
 
 businessList      import ./business
 
- "homepage": "http://Patkloe.github.io/yelp_app",
+ "homepage": "https://Patkloe.github.io/yelp_app",
 
+git remote add origin https://github.com/Patkloe/Yelp_Pgr.git
+git push -u origin master
+
+https://www.youtube.com/watch?v=Q2jBEvMaJEA
+
+git clone https://github.com/Patkloe/Yelp_Pgr.git
+
+git remote add origin https://github.com/Patkloe/react-gh-pages.git
 

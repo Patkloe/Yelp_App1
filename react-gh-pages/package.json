@@ -1,6 +1,5 @@
 {
-  "homepage": "http://Patkloe.github.io/react-gh-pages",
-  "name": "my-app2",
+  "homepage": "https://Patkloe.github.io/-react-gh-pages",
   "name": "react-gh-pages",
   "version": "0.1.0",
   "private": true,
@@ -13,7 +12,7 @@
     "react-scripts": "3.4.1"
   },
   "scripts": {
-     "start": "react-scripts start",
+    "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
