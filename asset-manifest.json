@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Yelp_App1/static/css/main.73e27983.chunk.css",
-    "main.js": "/Yelp_App1/static/js/main.8031163c.chunk.js",
-    "main.js.map": "/Yelp_App1/static/js/main.8031163c.chunk.js.map",
+    "main.css": "/Yelp_App1/static/css/main.f9271abc.chunk.css",
+    "main.js": "/Yelp_App1/static/js/main.c9f669ff.chunk.js",
+    "main.js.map": "/Yelp_App1/static/js/main.c9f669ff.chunk.js.map",
     "runtime-main.js": "/Yelp_App1/static/js/runtime-main.b6c0f758.js",
     "runtime-main.js.map": "/Yelp_App1/static/js/runtime-main.b6c0f758.js.map",
     "static/js/2.d4eaff96.chunk.js": "/Yelp_App1/static/js/2.d4eaff96.chunk.js",
     "static/js/2.d4eaff96.chunk.js.map": "/Yelp_App1/static/js/2.d4eaff96.chunk.js.map",
     "index.html": "/Yelp_App1/index.html",
-    "precache-manifest.b39c35beb27ebbe7e3c4a2ef4cd72c71.js": "/Yelp_App1/precache-manifest.b39c35beb27ebbe7e3c4a2ef4cd72c71.js",
+    "precache-manifest.b6621d84214d001d3dbf766bd5021210.js": "/Yelp_App1/precache-manifest.b6621d84214d001d3dbf766bd5021210.js",
     "service-worker.js": "/Yelp_App1/service-worker.js",
-    "static/css/main.73e27983.chunk.css.map": "/Yelp_App1/static/css/main.73e27983.chunk.css.map",
+    "static/css/main.f9271abc.chunk.css.map": "/Yelp_App1/static/css/main.f9271abc.chunk.css.map",
     "static/js/2.d4eaff96.chunk.js.LICENSE.txt": "/Yelp_App1/static/js/2.d4eaff96.chunk.js.LICENSE.txt",
     "static/media/SearchBar.css": "/Yelp_App1/static/media/foodbackground.a677bab3.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b6c0f758.js",
     "static/js/2.d4eaff96.chunk.js",
-    "static/css/main.73e27983.chunk.css",
-    "static/js/main.8031163c.chunk.js"
+    "static/css/main.f9271abc.chunk.css",
+    "static/js/main.c9f669ff.chunk.js"
   ]
 }
