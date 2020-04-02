@@ -27,6 +27,7 @@ class App extends React.Component {
         <h1>PARIS DeLiCiOuS</h1>
         <SearchBar searchYelp={this.searchYelp} />
         <BusinessList businesses={this.state.businesses} />
+        <h5>® Patrick Motsebo trough Tech901 2020</h5>
       </div>
     );
   }
