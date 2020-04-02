@@ -1,5 +1,6 @@
 {
-  "name": "my-app2",
+  "homepage": "https://Patkloe.github.io/Yelp_App1",
+  "name": "Yelp_App",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
