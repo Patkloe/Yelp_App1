@@ -76,8 +76,15 @@ class SearchBar extends React.Component {
     }
 
     _handleSearch = (e) => {
+        let adress = this.state.location;
+        let choix = this.state.term;
+        if((adress == '')||(choix == ''))
+          {
+              return( alert('Missing informations'));
+          }
         this.props.searchYelp(this.state.term, this.state.location, this.state.sortBy);
         e.preventDefault();
+        //console.log(_handleSearch);
     }
 };
 
