@@ -8,9 +8,16 @@ class BusinessList extends React.Component {
     constructor(props){
         super(props);
     }
-
+    
     render() {
-        let restrauntInfo = this.props.businesses.map((business) => {
+            //let val = 0;
+            let restrauntInfo = this.props.businesses.map((business) => {
+            let val = restrauntInfo.length;
+            if(val == 0)
+              {
+                  return( alert('Unknown Business'));
+              }
+     //render() {
             let name = business['name'];
             let image = business['imageSrc']
             let address = business['address'];
@@ -33,12 +40,16 @@ class BusinessList extends React.Component {
                 url={url}
                 />
         })
+         let res = restrauntInfo.length;
+         console.log(restrauntInfo);
+         console.log(res);
         return(
             <div className="BusinessList">
                 {restrauntInfo}
             </div>
         );
+       // console.log(5);
     };
 };
-
+//console.log(" test a voir" + {restrauntInfo});
 export default BusinessList;
