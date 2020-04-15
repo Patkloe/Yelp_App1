@@ -12,11 +12,11 @@ class BusinessList extends React.Component {
     render() {
             //let val = 0;
             let restrauntInfo = this.props.businesses.map((business) => {
-            let val = restrauntInfo.length;
-            if(val == 0)
-              {
-                  return( alert('Unknown Business'));
-              }
+            //let val = restrauntInfo.length;
+            //if(val == 0)
+             // {
+                 // return( alert('Unknown Business'));
+             // }
      //render() {
             let name = business['name'];
             let image = business['imageSrc']
