@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "07b6ebbd524ce408299e09ca5dc71f9e",
+    "revision": "5d6771e31b6423e34fd27fb35df04eeb",
     "url": "/Yelp_App1/index.html"
   },
   {
-    "revision": "44f43de41e9002c9b3a8",
+    "revision": "9c1c88c852e63eaab224",
     "url": "/Yelp_App1/static/css/main.f9271abc.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Yelp_App1/static/js/2.d4eaff96.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "44f43de41e9002c9b3a8",
-    "url": "/Yelp_App1/static/js/main.829be1c8.chunk.js"
+    "revision": "9c1c88c852e63eaab224",
+    "url": "/Yelp_App1/static/js/main.a7d3c01f.chunk.js"
   },
   {
     "revision": "92fb9b55247acc1fc117",
