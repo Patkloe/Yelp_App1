@@ -1,3 +1,39 @@
+<style type='text/css'>
+@-webkit-keyframes showTooltip {<!--from w ww  .ja  v a  2  s.c  o  m-->
+  from {opacity: 0;}
+    to {opacity: 1;}
+}
+@-moz-keyframes showTooltip {
+  from {opacity: 0;}
+    to {opacity: 1;}
+}
+@keyframes showTooltip {
+  from {opacity: 0;}
+    to {opacity: 1;}
+}
+.form-item {
+  position: relative;
+}
+.message-error:after {
+  content: attr(data-tooltip);
+  position: absolute;
+  top: 0;
+  left: 10%;
+  display: none;
+  padding: 1em 2em;
+  color: white;
+}
+
+.message-error:hover:after {
+  display: block;
+  -webkit-animation: showTooltip 0.35s ease-in-out;
+  -moz-animation: showTooltip 0.35s ease-in-out;
+  animation: showTooltip 0.35s ease-in-out;
+}
+.message-error:after {
+  background-color: #52b0ef;
+}
+
 .Error {
     font-size: 20px;
     color: #013214;
@@ -110,3 +146,4 @@
       margin-bottom: .86rem;
     }
   }
+ 
