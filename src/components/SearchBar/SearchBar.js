@@ -31,7 +31,7 @@ class SearchBar extends React.Component {
                         {this._renderSortByOptions(this.sortByOptions)}
                     </ul>
                 </div>
-                    <div className="SearchBar-fields form-item message-error" data-tooltip="what do you wanna eat">
+                    <div className="SearchBar-fields form-item message-error" data-tooltip="what do you wanna eat and where in the world">
                     <input onChange={this._handleTermChange} placeholder="What are you in the mood for?" />
                     <input onChange={this._handleLocationChange} placeholder="Where in the world?" />
                 </div>
